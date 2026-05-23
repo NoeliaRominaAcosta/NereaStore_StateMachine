@@ -1,0 +1,9 @@
+com\comercio\domain\rules\BusinessRule.class
+com\comercio\application\dto\ShippingAddressDto.class
+com\comercio\domain\rules\RuleContext.class
+com\comercio\application\dto\OrderItemDto.class
+com\comercio\domain\rules\OrderRuleEngine$RuleResult.class
+com\comercio\application\dto\PurchaseEventPayload.class
+com\comercio\domain\rules\OrderRuleEngine.class
+com\comercio\application\activities\ReserveStockActivity.class
+com\comercio\StateMachineProjectApplication.class
