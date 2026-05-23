@@ -3,7 +3,7 @@
 Este proyecto es una implementación profesional de una Máquina de Estados (State Machine) utilizando **Spring State Machine** para gestionar el ciclo de vida de una orden de compra. Utiliza una arquitectura desacoplada donde la lógica de negocio reside en **Activities** y las validaciones en un **Rule Engine** inyectado por Spring.
 
 ## 🚀 Tecnologías Utilizadas
-- **Java 21** (Records, Pattern Matching)
+- **Java 23** 
 - **Spring Boot 3.3.0**
 - **Spring State Machine 4.0.0**
 - **Spring Data JPA** (MySQL)
